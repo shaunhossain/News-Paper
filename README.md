@@ -1,11 +1,11 @@
 # NewsPaper
 
-Bornomala apps made for kites to learn Bangla bornomala easily .
+A news paper app using newsapi.org restapi
 
 
 ### About this App
 
-* Voice resources act as a fun environment and the Modern UI is very adaptable for children.
+* News paper apps use a REST API as a data source and use room for local data saving..
 
 
 ## Architecture
