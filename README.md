@@ -24,7 +24,7 @@ navigation between fragments
 * [Room Database](https://developer.android.com/training/data-storage/room/) - To store offline data and save favourite posts
 * [ViewPager2](https://developer.android.com/jetpack/androidx/releases/viewpager2) - to manage multiple fragments for categores 
 
-## App [Link](https://github.com/shaunhossain/Eud-Bangla/releases/download/v0.3-alpha.2/EduBangla.apk)
+## App [Link](https://github.com/shaunhossain/News-Paper/releases/download/v1.0/NewsPaper.apk)
 
 
 ## Screenshots
